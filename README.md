@@ -4,7 +4,7 @@ I appreciate your interest in exploring my projects. I’m a self-driven iOS Dev
 &#127970; Moscow State Institute of Radiotechnics, Electronics and Automation (MIREA) | Software engineering <br/> <br/>
 Here's a bit of what I've been working on.
 
- $\textcolor{darkgray}{workaround \ found \ by \ Dassalem \ Mohammed \ Yasser}$
+ $\textcolor{darkgray}{workaround \ found \ by lol \ Dassalem \ Mohammed \ Yasser}$
 
 
 
