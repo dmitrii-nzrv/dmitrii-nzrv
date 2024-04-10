@@ -1,5 +1,5 @@
-### Hi there 👋
-Hey there and welcome 👋
+### Hey there and welcome 👋
+
 I appreciate your interest in exploring my projects. I’m a self-driven iOS Developer, looking to build a portfolio to eventually get a job. Here's a bit of what I've been working on.
 
 &#127970; Moscow State Institute of Radiotechnics, Electronics and Automation (MIREA) | Software engineering
