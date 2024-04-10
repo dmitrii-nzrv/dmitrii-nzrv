@@ -4,11 +4,6 @@ I appreciate your interest in exploring my projects. I’m a self-driven iOS Dev
 &#127970; Moscow State Institute of Radiotechnics, Electronics and Automation (MIREA) | Software engineering <br/> <br/>
 Here's a bit of what I've been working on.
 
- $\textcolor{darkgray}{workaround \ found \ by \ Dassalem \ Mohammed \ Yasser}$
- $\textcolor{darkgray}{workaround <br/> \ found \ by \ Dassalem \ Mohammed \ Yasser}$
-
-
-
 ## 🌐 Contact me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/orthodoxxx03)
