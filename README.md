@@ -4,6 +4,8 @@ I appreciate your interest in exploring my projects. I’m a self-driven iOS Dev
 &#127970; Moscow State Institute of Radiotechnics, Electronics and Automation (MIREA) | Software engineering <br/> <br/>
 Here's a bit of what I've been working on.
 
+ <p>Текст <font color="green">&#127970; Moscow State Institute of Radiotechnics, Electronics and Automation (MIREA) | Software engineering </font>.</p>
+
 
 
 ## 🌐 Contact me:
