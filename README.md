@@ -1,7 +1,7 @@
 ### Hey there and welcome 👋
 
 I appreciate your interest in exploring my projects. I’m a self-driven iOS Developer, looking to build a portfolio to eventually get a job. <br/>
-&#127970; Moscow State Institute of Radiotechnics, Electronics and Automation (MIREA) | Software engineering
+&#127970; Moscow State Institute of Radiotechnics, Electronics and Automation (MIREA) | Software engineering <br/> <br/>
 Here's a bit of what I've been working on.
 
 
