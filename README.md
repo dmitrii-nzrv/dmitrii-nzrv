@@ -1,8 +1,9 @@
 ### Hey there and welcome 👋
 
-I appreciate your interest in exploring my projects. I’m a self-driven iOS Developer, looking to build a portfolio to eventually get a job. Here's a bit of what I've been working on.
-
+I appreciate your interest in exploring my projects. I’m a self-driven iOS Developer, looking to build a portfolio to eventually get a job.
 &#127970; Moscow State Institute of Radiotechnics, Electronics and Automation (MIREA) | Software engineering
+Here's a bit of what I've been working on.
+
 
 
 ## 🌐 Contact me:
