@@ -5,6 +5,8 @@ I appreciate your interest in exploring my projects. I’m a self-driven iOS Dev
 Here's a bit of what I've been working on.
 
 ## 🌐 Contact me:
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/orthodoxxx_/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/orthodoxxx/)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/orthodoxxx03)
 
