@@ -2,7 +2,8 @@
 
 
 ## 🌐 Socials:
-[![Telegram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]([https://telegram.com/orthodoxxx03](https://t.me/orthodoxxx03)) 
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/orthodoxxx03))
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 # 💻 Tech Stack:
