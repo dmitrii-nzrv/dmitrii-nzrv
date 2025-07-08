@@ -56,7 +56,7 @@ Here's a bit of what I've been working on.
 ![Push Notifications](https://img.shields.io/badge/Push_Notifications-0A84FF?style=for-the-badge&logo=bell&logoColor=white)
 
 
-# 📊 GitHub Stats:
+# 📊 
 
 
 
