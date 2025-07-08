@@ -12,21 +12,21 @@ Here's a bit of what I've been working on.
 
 ## 🧰 Tech Stack
 **Languages & Platforms**  
-![Swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-AEB1B3?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=Xcode&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
 
 **UI Frameworks**  
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 **Architecture & Testing**  
-![MVVM](https://img.shields.io/badge/MVVM-000000?style=for-the-badge&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-000000?style=for-the-badge&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-23272F?style=for-the-badge&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-2D2D2D?style=for-the-badge&logoColor=white)
 ![MVP](https://img.shields.io/badge/MVP-000000?style=for-the-badge&logoColor=white)
 ![Coordinator](https://img.shields.io/badge/Coordinator-000000?style=for-the-badge&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-000000?style=for-the-badge&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-1C1C1E?style=for-the-badge&logoColor=white)
 ![Unit Tests](https://img.shields.io/badge/Unit_Tests-000000?style=for-the-badge&logo=xcode&logoColor=white)
 
 **Data & Backend**  
