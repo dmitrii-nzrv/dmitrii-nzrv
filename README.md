@@ -12,50 +12,50 @@ Here's a bit of what I've been working on.
 
 ## 🧰 Tech Stack
 **Languages & Platforms**  
-![Swift](https://img.shields.io/badge/Swift-AEB1B3?style=for-the-badge&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=Xcode&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-0A84FF?style=for-the-badge&logo=Xcode&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
 
 **UI Frameworks**  
-![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-000000?style=for-the-badge&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
 
 **Architecture & Testing**  
-![MVVM](https://img.shields.io/badge/MVVM-23272F?style=for-the-badge&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-2D2D2D?style=for-the-badge&logoColor=white)
-![MVP](https://img.shields.io/badge/MVP-000000?style=for-the-badge&logoColor=white)
-![Coordinator](https://img.shields.io/badge/Coordinator-000000?style=for-the-badge&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-1C1C1E?style=for-the-badge&logoColor=white)
-![Unit Tests](https://img.shields.io/badge/Unit_Tests-000000?style=for-the-badge&logo=xcode&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-0A84FF?style=for-the-badge&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-0A84FF?style=for-the-badge&logoColor=white)
+![MVP](https://img.shields.io/badge/MVP-0A84FF?style=for-the-badge&logoColor=white)
+![Coordinator](https://img.shields.io/badge/Coordinator-0A84FF?style=for-the-badge&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-0A84FF?style=for-the-badge&logoColor=white)
+![Unit Tests](https://img.shields.io/badge/Unit_Tests-0A84FF?style=for-the-badge&logo=xcode&logoColor=white)
 
 **Data & Backend**  
-![Realm](https://img.shields.io/badge/Realm-000000?style=for-the-badge&logo=realm&logoColor=white)
-![CoreData](https://img.shields.io/badge/CoreData-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-0A84FF?style=for-the-badge&logo=realm&logoColor=white)
+![CoreData](https://img.shields.io/badge/CoreData-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-0A84FF?style=for-the-badge&logo=firebase&logoColor=white)
 
 **Concurrency & Multithreading**  
-![GCD](https://img.shields.io/badge/GCD-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-000000?style=for-the-badge&logo=swift&logoColor=white)
-![Swift Concurrency](https://img.shields.io/badge/Swift_Concurrency-000000?style=for-the-badge&logo=swift&logoColor=white)
-![async/await](https://img.shields.io/badge/async/await-000000?style=for-the-badge&logo=swift&logoColor=white)
+![GCD](https://img.shields.io/badge/GCD-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
+![Swift Concurrency](https://img.shields.io/badge/Swift_Concurrency-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
+![async/await](https://img.shields.io/badge/async/await-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
 
 **Networking**  
-![URLSession](https://img.shields.io/badge/URLSession-000000?style=for-the-badge&logo=swift&logoColor=white)
-![Alamofire](https://img.shields.io/badge/Alamofire-000000?style=for-the-badge&logo=swift&logoColor=white)
+![URLSession](https://img.shields.io/badge/URLSession-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
+![Alamofire](https://img.shields.io/badge/Alamofire-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
 
 **Package Managers**  
-![CocoaPods](https://img.shields.io/badge/CocoaPods-000000?style=for-the-badge&logo=cocoapods&logoColor=white)
-![SPM](https://img.shields.io/badge/SPM-000000?style=for-the-badge&logo=swift&logoColor=white)
+![CocoaPods](https://img.shields.io/badge/CocoaPods-0A84FF?style=for-the-badge&logo=cocoapods&logoColor=white)
+![SPM](https://img.shields.io/badge/SPM-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
 
 **Multimedia & Services**  
-![AVFoundation](https://img.shields.io/badge/AVFoundation-000000?style=for-the-badge&logo=apple&logoColor=white)
-![AVKit](https://img.shields.io/badge/AVKit-000000?style=for-the-badge&logo=apple&logoColor=white)
-![CoreImage](https://img.shields.io/badge/CoreImage-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Photos](https://img.shields.io/badge/Photos-000000?style=for-the-badge&logo=apple&logoColor=white)
-![MapKit](https://img.shields.io/badge/MapKit-000000?style=for-the-badge&logo=apple&logoColor=white)
-![CoreLocation](https://img.shields.io/badge/CoreLocation-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Push Notifications](https://img.shields.io/badge/Push_Notifications-000000?style=for-the-badge&logo=apple&logoColor=white)
+![AVFoundation](https://img.shields.io/badge/AVFoundation-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
+![AVKit](https://img.shields.io/badge/AVKit-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
+![CoreImage](https://img.shields.io/badge/CoreImage-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
+![Photos](https://img.shields.io/badge/Photos-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
+![MapKit](https://img.shields.io/badge/MapKit-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
+![CoreLocation](https://img.shields.io/badge/CoreLocation-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
+![Push Notifications](https://img.shields.io/badge/Push_Notifications-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
 
 # 📊 GitHub Stats:
 
