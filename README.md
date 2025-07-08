@@ -6,9 +6,8 @@ Here's a bit of what I've been working on.
 
 ## 🌐 Contact me:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/orthodoxxx_/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/orthodoxxx/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/orthodoxxx/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/orthodoxxx03)
-
 ## 🧰 Tech Stack
 **Languages & Platforms**  
 ![Swift](https://img.shields.io/badge/Swift-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
