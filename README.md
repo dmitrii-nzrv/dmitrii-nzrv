@@ -21,7 +21,7 @@ Here's a bit of what I've been working on.
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-34C759?style=for-the-badge&logo=apple&logoColor=white)
 
-**Architecture & Testing**  
+**Architecture patterns & Testing**  
 ![MVVM](https://img.shields.io/badge/MVVM-8E44AD?style=for-the-badge)
 ![MVC](https://img.shields.io/badge/MVC-F39C12?style=for-the-badge)
 ![MVP](https://img.shields.io/badge/MVP-16A085?style=for-the-badge)
