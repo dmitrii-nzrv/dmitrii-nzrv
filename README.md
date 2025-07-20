@@ -20,12 +20,6 @@ Here's a bit of what I've been working on.
 **Workflow:** Scrum, Kanban  
 
 
-
-
-# 📊 
-
-
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
