@@ -11,15 +11,15 @@ Here's a bit of what I've been working on.
 
 ## 🧰 Tech Stack
 **Language:** Swift  
-**Architectures:** Clean Architecture, MVC, MVP, MVVM
-**UI:** SwiftUI, UIKit
-**Concurrency:** async/await, GCD
-**Networking:** URLSession, REST API, JSON
-**Key-Value & Lightweight Storage:** UserDefaults, AppStorage, Keychain
-**Databases**: Realm, CoreData
-**Media:** AVFoundation
-**Version Control:** Git
-**Workflow:** Scrum, Kanban
+**Architectures:** Clean Architecture, MVC, MVP, MVVM  
+**UI:** SwiftUI, UIKit  
+**Concurrency:** async/await, GCD  
+**Networking:** URLSession, REST API, JSON  
+**Key-Value & Lightweight Storage:** UserDefaults, AppStorage, Keychain  
+**Databases**: Realm, CoreData  
+**Media:** AVFoundation  
+**Version Control:** Git  
+**Workflow:** Scrum, Kanban  
 
 
 
