@@ -10,7 +10,7 @@ Here's a bit of what I've been working on.
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/orthodoxxx03)
 
 ## 🧰 Tech Stack
-**Language:** Swift
+**Language:** Swift  
 **Architectures:** Clean Architecture, MVC, MVP, MVVM
 **UI:** SwiftUI, UIKit
 **Concurrency:** async/await, GCD
