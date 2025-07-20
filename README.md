@@ -20,11 +20,10 @@ Here's a bit of what I've been working on.
 ![UIKit](https://img.shields.io/badge/UIKit-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
 
 **Architecture & Testing**  
-![MVVM](https://img.shields.io/badge/MVVM-0A84FF?style=for-the-badge&logo=vercel&logoColor=white)
+![Clean Code](https://img.shields.io/badge/Clean_Code-00C853?style=for-the-badge&logo=leaflet&logoColor=white)![MVVM](https://img.shields.io/badge/MVVM-0A84FF?style=for-the-badge&logo=vercel&logoColor=white)
 ![MVC](https://img.shields.io/badge/MVC-0A84FF?style=for-the-badge&logo=vercel&logoColor=white)
 ![MVP](https://img.shields.io/badge/MVP-0A84FF?style=for-the-badge&logo=vercel&logoColor=white)
 ![Coordinator](https://img.shields.io/badge/Coordinator-0A84FF?style=for-the-badge&logo=vercel&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-0A84FF?style=for-the-badge&logo=testtube&logoColor=white)
 ![Unit Tests](https://img.shields.io/badge/Unit_Tests-0A84FF?style=for-the-badge&logo=xcode&logoColor=white)
 
 **Data & Backend**  
@@ -34,9 +33,7 @@ Here's a bit of what I've been working on.
 
 **Concurrency & Multithreading**  
 ![GCD](https://img.shields.io/badge/GCD-0A84FF?style=for-the-badge&logo=fastapi&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
 ![Swift Concurrency](https://img.shields.io/badge/Swift_Concurrency-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
-![async/await](https://img.shields.io/badge/async/await-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
 
 **Networking**  
 ![URLSession](https://img.shields.io/badge/URLSession-0A84FF?style=for-the-badge&logo=linktree&logoColor=white)
@@ -50,7 +47,6 @@ Here's a bit of what I've been working on.
 ![AVFoundation](https://img.shields.io/badge/AVFoundation-0A84FF?style=for-the-badge&logo=music&logoColor=white)
 ![AVKit](https://img.shields.io/badge/AVKit-0A84FF?style=for-the-badge&logo=playstation&logoColor=white)
 ![CoreImage](https://img.shields.io/badge/CoreImage-0A84FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Photos](https://img.shields.io/badge/Photos-0A84FF?style=for-the-badge&logo=googlephotos&logoColor=white)
 ![MapKit](https://img.shields.io/badge/MapKit-0A84FF?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![CoreLocation](https://img.shields.io/badge/CoreLocation-0A84FF?style=for-the-badge&logo=compass&logoColor=white)
 ![Push Notifications](https://img.shields.io/badge/Push_Notifications-0A84FF?style=for-the-badge&logo=bell&logoColor=white)
