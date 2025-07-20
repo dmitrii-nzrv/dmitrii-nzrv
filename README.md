@@ -1,7 +1,5 @@
 ### Hey there and welcome 👋
-
 I appreciate your interest in exploring my projects. I’m a self-driven iOS Developer, looking to build a portfolio to eventually get a job. <br/>
-
 Here's a bit of what I've been working on.
 
 ## 🌐 Contact me:
